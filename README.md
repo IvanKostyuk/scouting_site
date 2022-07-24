@@ -65,4 +65,6 @@ Example of how it will look.
 The second part of configuration should be done on repository side. Go to repository **Settings** (gear/cogwheel). Go to **Pages**. Type or paste the domain name into the field **Custom domain** and press the button **Save**. Check the option **Enforce HTTPS** (the scout is trustworthy).
 
 ## Publish site
-Go to repository **Settings** (gear/cogwheel). Go to **Pages**. Under **Source** select the branch and directory which should be used for publishing.
+Go to repository **Settings** (gear/cogwheel). Go to **Pages**. Under **Source** select the branch and folder which should be used for publishing. Press the button **Save**.
+
+In few minutes the site will be visible to everyone.
